@@ -1,0 +1,10 @@
+# StreamDrop Local Gitignore
+downloads/
+bin/
+history.json
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+env/
